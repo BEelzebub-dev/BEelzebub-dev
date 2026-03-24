@@ -10,7 +10,7 @@
 [![Followers](https://img.shields.io/github/followers/BEelzebub-dev?style=for-the-badge&label=Followers&color=0f172a)](https://github.com/BEelzebub-dev)
 [![Status](https://img.shields.io/badge/Status-Building%20in%20Public-7c3aed?style=for-the-badge)](https://github.com/BEelzebub-dev)
 [![Workflow](https://img.shields.io/badge/Workflow-Main%20%2F%20Executor%20%2F%20Reviewer-111827?style=for-the-badge)](https://github.com/BEelzebub-dev)
-[![Featured](https://img.shields.io/badge/Featured-xiaoxiaomi%20Skills-0f766e?style=for-the-badge&logo=github)](https://github.com/BEelzebub-dev/xiaoxiaomi)
+[![Featured](https://img.shields.io/badge/Featured-xiaoxiaomi%20Skills-0f766e?style=for-the-badge&logo=github)](https://github.com/BEelzebub-dev/xiaoxiami)
 
 </div>
 
@@ -53,14 +53,14 @@
 
 | 项目 | 说明 |
 |---|---|
-| [xiaoxiaomi](https://github.com/BEelzebub-dev/xiaoxiaomi) | AI 助手技能库，播客/摘要/图像/文档 |
+| [xiaoxiaomi](https://github.com/BEelzebub-dev/xiaoxiami) | AI 助手技能库，播客/摘要/图像/文档 |
 | [openclaw-allbot-bridge](https://github.com/BEelzebub-dev/openclaw-allbot-bridge) | 微信 869 桥接，文件/语音/消息收发 |
 
 ---
 
 ## 🔗 快速入口
 
-[![Skills Repo](https://img.shields.io/badge/GitHub-xiaoxiaomi-ff6b6b?style=for-the-badge&logo=github)](https://github.com/BEelzebub-dev/xiaoxiaomi)
+[![Skills Repo](https://img.shields.io/badge/GitHub-xiaoxiaomi-ff6b6b?style=for-the-badge&logo=github)](https://github.com/BEelzebub-dev/xiaoxiami)
 [![Profile Repo](https://img.shields.io/badge/GitHub-Profile%20Repo-111827?style=for-the-badge&logo=github)](https://github.com/BEelzebub-dev/BEelzebub-dev)
 
 ---
@@ -91,6 +91,6 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/BEelzebub-dev/xiaoxiaomi">📦 技能仓库</a> ·
+  <a href="https://github.com/BEelzebub-dev/xiaoxiami">📦 技能仓库</a> ·
   <a href="https://discord.com/invite/clawd">💬 OpenClaw 社区</a>
 </p>
