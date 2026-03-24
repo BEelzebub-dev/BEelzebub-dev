@@ -74,5 +74,5 @@
 <p align="center">
   <a href="https://github.com/BEelzebub-dev/xiaoxiaomi">📦 技能仓库</a> ·
   <a href="https://github.com/BEelzebub-dev/xiaoxiaomi/stargazers">⭐ Stars</a> ·
-  <a href="https://discord.com/invite/clawd">💬 OpenClaw 社区</a>
+  <a href="https://discord.com/ingo/clawd">💬 OpenClaw 社区</a>
 </p>
