@@ -55,6 +55,7 @@
 |---|---|
 | [xiaoxiaomi](https://github.com/BEelzebub-dev/xiaoxiami) | AI 助手技能库，播客/摘要/图像/文档 |
 | [openclaw-allbot-bridge](https://github.com/BEelzebub-dev/openclaw-allbot-bridge) | 微信 869 桥接，文件/语音/消息收发 |
+| [persona-chat](https://github.com/BEelzebub-dev/persona-chat) | 凡人修仙传女角色人格切换技能，支持银月/紫灵/南宫婉等26个角色人格切换 |
 
 ---
 
